@@ -1,0 +1,40 @@
+.warna {
+    background-color: white;
+}
+
+.card {
+    max-width: 540px;
+}
+
+.cards {
+    width: 18rem;
+    background-color: white;
+}
+
+.cardcontainer {
+    height: 100vh;
+}
+.kotak1 {
+    border-color: tomato;
+    background-color: #2d2d2d;
+    color: white;
+    font-size: 20px;
+    border: 1px solid tomato;
+}
+
+.kotak2 {
+    background-color: #2d2d2d;
+    color: white;
+    font-size: 20px;
+    border: 1px solid aqua;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+}

@@ -2,7 +2,13 @@ import React from 'react'
 
 function Kotak1() {
   return (
-    <h1>Kotak1</h1>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-light sticky-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href='#'>Album</a>
+      </div>
+    </nav>
+
   )
 }
 
